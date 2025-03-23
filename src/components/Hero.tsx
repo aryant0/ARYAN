@@ -189,7 +189,7 @@ const Hero: React.FC = () => {
               >
                 <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
                   <img 
-                    src="https://imgs.search.brave.com/xquR_EDpu1PPsrsXCMh2oslhbb4w2w0jtIJ6BhJh7cs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzb2suY29t/L2ltYWdlcy9oaWdo/L2Flc3RoZXRpYy1v/bmUtcGllY2UtcGZw/LW1vbmtleS1kLWx1/ZmZ5LXNlczlqejgy/aTVuNXYxMm0uanBn"
+                    src="dist/assets/aryan_passportsize-removebg-preview.png"
                     alt="Developer Profile" 
                     className="w-full h-full object-cover"
                   />

@@ -165,7 +165,7 @@ const Navbar: React.FC = () => {
               </motion.a>
             ))}
             <motion.a
-              href="/resume.pdf"
+              href="dist/assets/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="py-2 px-4 rounded-md bg-primary-light dark:bg-primary-dark text-white text-center font-medium"
