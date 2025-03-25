@@ -96,7 +96,7 @@ const About: React.FC = () => {
               </div>
               <div>
                 <h4 className="text-lg font-medium text-text-light dark:text-text-dark">Software Developer</h4>
-                <p className="text-gray-500 dark:text-gray-400">Opt2Deal E-commerce • June 2024 - July 2023</p>
+                <p className="text-gray-500 dark:text-gray-400">Opt2Deal E-commerce • June 2024 - August 2024</p>
                 <ul className="text-gray-600 dark:text-gray-300 mt-2 list-disc list-inside">
                   <li>Developed RESTful APIs, boosting system efficiency</li>
                   <li>Built secure backend architecture with Node.js, MongoDB, and JWT</li>

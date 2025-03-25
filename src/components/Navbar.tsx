@@ -105,7 +105,7 @@ const Navbar: React.FC = () => {
               {theme === 'dark' ? <Sun size={20} /> : <Moon size={20} />}
             </motion.button>
             <motion.a
-              href="/dist/assets/Aryan_Narayan_Thakur.pdf"
+              href="src/assets/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 rounded-full bg-primary-light dark:bg-primary-dark text-white font-medium hover:bg-primary-dark dark:hover:bg-opacity-90 transition-colors"
@@ -165,7 +165,7 @@ const Navbar: React.FC = () => {
               </motion.a>
             ))}
             <motion.a
-              href="dist/assets/resume.pdf"
+              href="src/assets/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="py-2 px-4 rounded-md bg-primary-light dark:bg-primary-dark text-white text-center font-medium"

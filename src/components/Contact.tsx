@@ -121,7 +121,7 @@ const Contact: React.FC = () => {
                   <div>
                     <h4 className="text-lg font-medium text-text-light dark:text-text-dark">Location</h4>
                     <p className="text-gray-600 dark:text-gray-300">
-                      Gurgaon, India
+                      Delhi, India
                     </p>
                   </div>
                 </motion.div>
